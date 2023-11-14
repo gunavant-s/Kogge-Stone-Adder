@@ -202,3 +202,4 @@ module q(             //carry propagation and generation module
 
 //The second version uses a generate block to instantiate the components for each stage of the adder.
 // This approach leverages Verilog's generate feature to create repetitive structures, making it more concise for larger bit widths.
+// https://www.youtube.com/watch?v=tgY4UIufLd0
